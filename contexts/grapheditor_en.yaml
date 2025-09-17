@@ -1,0 +1,7 @@
+title: Graph Editor
+source: "G. Snelting, F. Tip. Understanding class hierarchies using concept analysis. ACM Trans. Program. Lang. Syst. (TOPLAS), 22 (3) (2000), pp. 540-582"
+size:
+  objects: 64
+  attributes: 63
+language: English
+description: classes and methods in a graph editor software project. The relation in this context is “class X has implemented method Y”.
