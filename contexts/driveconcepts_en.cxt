@@ -1,5 +1,5 @@
 B
-
+Drive concepts
 5
 25
 
@@ -8,33 +8,33 @@ Front-wheel
 Rear-wheel
 Mid-engine
 All-wheel
-De++
-De+
-De-
-Dl++
-Dl+
-Dl-
-R++
-R+
-R--
-S-u
-S-o
-S-n
-S-u/n
-E++
-E+
-E-
-E--
-C-vl
-C-l
-C-m
-C-h
-M++
-M+
-M-
-M--
-..X.X..X.X....X....X.XX..
-.X...XXX.X...XX..XX...X..
-XX.XX...X.X....X..X...X..
-XX.XX..X...X...XX.X....XX
-XX.XX..X....X.X.....X..X.
+Drive efficiency empty ++
+Drive efficiency empty +
+Drive efficiency empty -
+Drive efficiency loaded ++
+Drive efficiency loaded +
+Drive efficiency loaded -
+Road holding ++
+Road holding +
+Road holding --
+Self steering u
+Self steering o
+Self steering n
+Self steering u/n
+Space economy ++
+Space economy +
+Space economy -
+Space economy --
+Construction cost vl
+Construction cost l
+Construction cost m
+Construction cost h
+Maintainability ++
+Maintainability +
+Maintainability -
+Maintainability --
+..x.x..x.x....x....x.xx..
+.x...xxx.x...xx..xx...x..
+xx.xx...x.x....x..x...x..
+xx.xx..x...x...xx.x....xx
+xx.xx..x....x.x.....x..x.
