@@ -1,8 +1,11 @@
-title: Drive Concepts
-source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 39"
+title: Drive concepts
+source:
+  - "B. Ganter and R. Wille (2024). Formal Concept Analysis. Mathematical Foundations. Springer Nature Switzerland, Figure 1.23"
 size:
-  objects: 5
-  attributes: 25
+  - objects: 5
+  - attributes: 25
 language: English
 description: drive concepts for motorcars
-note: "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
+note:
+  - "Derived from a table on page 402 in the book Schlag nach! 100000 Tatsachen aus allen Wissensgebieten. 13. Auflage. Meyers Lexikonverlag, 1988"
+  - "In comparison to the version in Ganter and Wille (1999) the attributes are not abbreviated."

@@ -1,7 +1,9 @@
-title: Living Beings and Water
-source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 18"
+title: Living beings and water
+source:
+  - "B. Ganter and R. Wille (2024). Formal Concept Analysis. Mathematical Foundations. Springer Nature Switzerland, Figure 1.1"
 size:
-  objects: 8
-  attributes: 9
+  - objects: 8
+  - attributes: 9
 language: English
 description: conditions different living beings need
+note: In comparison to the version in Ganter and Wille (1999) the spelling is slightly corrected.

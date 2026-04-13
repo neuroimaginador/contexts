@@ -1,7 +1,9 @@
-title: Office Supplies
-source: "Ganter, B., & Wille, R. (1999). Formal Concept analysis. Springer, p. 25"
+title: Office supply services
+source:
+  - "B. Ganter and R. Wille (2024). Formal Concept Analysis. Mathematical Foundations. Springer Nature Switzerland, Figure 1.5"
 size:
-  objects: 8
-  attributes: 5
+  - objects: 8
+  - attributes: 5
 language: English
-description: service offers of an office supplies business
+description: Office supply services
+note: In comparison to the version in Ganter and Wille (1999) the spelling is slightly corrected.
