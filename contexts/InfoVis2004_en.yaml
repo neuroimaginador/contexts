@@ -1,0 +1,7 @@
+title: Infovis 2004
+source: "C. Plaisant, J.-D. Fekete, G. Grinstein. Promoting insight-based evaluation of visualizations: From contest to benchmark repository. IEEE Trans. Vis. Comput. Graphics, 14 (1) (2008), pp. 120-134"
+size:
+  objects: 1036
+  attributes: 612
+language: English
+description: Bibliographic metadata on 612 publications on information visualization and the standardized names of their 1036 unique authors prepared for use in the InfoVis contest at the 2004 IEEE InfoVis Symposium. The relation in this formal context is “author X wrote a paper entitled Y”.
