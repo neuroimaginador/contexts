@@ -85,6 +85,15 @@ forum_romanum_en.cxt:
   description: Ratings of monuments on the Forum Romanum in different travel guides.
   note: Scaled version of the context in Figure 1.26 whose lattice is shown in Figure 1.27.
 
+grapheditor_en.cxt:
+  title: Graph Editor
+  source: "G. Snelting, F. Tip. Understanding class hierarchies using concept analysis. ACM Trans. Program. Lang. Syst. (TOPLAS), 22 (3) (2000), pp. 540-582"
+  size:
+  objects: 64
+  attributes: 63
+  language: English
+  description: classes and methods in a graph editor software project. The relation in this context is “class X has implemented method Y”.
+
 livingbeings_de.cxt:
   title: Lebewesen und Wasser
   source: "Ganter, B., & Wille, R. (1996). Formale Begriffsanalyse. Springer. p. 18"
@@ -200,4 +209,13 @@ triangles_en.cxt:
   - attributes: 7
   language: English
   description: Properties of triangles.
+
+virushost_en.cxt:
+  title: VirusHost
+  source: "O. Rozenblatt-Rosen, R.C. Deo, M. Padi, G. Adelmant, M.A. Calderwood, T. Rolland, M. Grace, A. Dricot, M. Askenazi, M. Tavares, et al. Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins. Nature, 487 (7408) (2012), pp. 491-495"
+  size:
+  objects: 49
+  attributes: 75
+  language: English
+  description: protein-protein interactions between human DNA tumor virus proteins and host proteins, via yeast two-hybrid (Y2H) experiments.
 
