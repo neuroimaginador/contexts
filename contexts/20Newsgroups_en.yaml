@@ -1,7 +1,0 @@
-title: 20 Newsgroups
-source: "K. Lang. 20 Newsgroups dataset (1997). http://qwone.com/jason/20Newsgroups/"
-size:
-  objects: 37660
-  attributes: 239
-language: English
-description: This dataset contains approximately 20,000 messages distributed across 20 distinct Usenet newsgroups, each focusing on specific topics such as technology, politics, or sports. For our experiments, the document collection was processed to construct a binary formal context resembling a document-term matrix. Relevant terms were selected based on their relative importance and frequency, specifically those appearing in at least 0.1% of the documents. Each term’s presence or absence in a message was encoded as a binary relation, capturing the relationship between documents and their terms. This preprocessing resulted in a manageable and structured context suitable for formal concept analysis and implication derivation. The 20 Newsgroups dataset serves as a challenging benchmark due to its large size and high dimensionality, making it ideal for evaluating the scalability and effectiveness of implication mining algorithms.

@@ -1,0 +1,7 @@
+title: Blog Catalog
+source: "Lei Tang and Huan Liu. 2009. Relational learning via latent social dimensions. In Proceedings of the 15th ACM SIGKDDinternational conference on Knowledge discovery and data mining. 817–826."
+size:
+  objects: 5196
+  attributes: 8189
+language: English
+description:  Objects are a set of bloggers, and attributes are the keywords generated from the bloggers’ blogs.

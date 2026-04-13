@@ -1,0 +1,7 @@
+title: Flickr
+source: "Xiao Huang, Jundong Li, and Xia Hu. 2017. Label informed attributed network embedding. In Proceedings of the tenthACM international conference on web search and data mining. 731–739."
+size:
+  objects: 7575
+  attributes: 12047
+language: English
+description: Users and tags representing their interests from Flickr.

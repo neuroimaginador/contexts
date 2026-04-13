@@ -1,0 +1,7 @@
+title: ICFCA
+source: "https://github.com/tomhanika/conexp-clj/tree/dev/testing-data/icfca_community"
+size:
+  objects: 351
+  attributes: 12614
+language: English
+description: Authors and publications from the ICFCA community.

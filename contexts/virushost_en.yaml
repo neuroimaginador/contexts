@@ -1,7 +1,0 @@
-title: VirusHost
-source: "O. Rozenblatt-Rosen, R.C. Deo, M. Padi, G. Adelmant, M.A. Calderwood, T. Rolland, M. Grace, A. Dricot, M. Askenazi, M. Tavares, et al. Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins. Nature, 487 (7408) (2012), pp. 491-495"
-size:
-  objects: 49
-  attributes: 75
-language: English
-description: protein-protein interactions between human DNA tumor virus proteins and host proteins, via yeast two-hybrid (Y2H) experiments.

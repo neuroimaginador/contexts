@@ -1,0 +1,10 @@
+title: wiki44k
+source: "Hanika, T., Marx, M., Stumme, G.: Discovering implicational knowledge in wikidata. In: Cristea, D., Ber, F.L., Sertkaya, B. (eds.) Formal Concept Analysis - 15th. International Conference, ICFCA 2019, Frankfurt, Germany, June 25-28, 2019, Proceedings. LNCS, vol. 11511, pp. 315–323. Springer (2019)"
+size:
+  objects: 45021
+  attributes: 101
+language: English
+description: This dataset is derived from Wikidata, a collaborative knowledge base. It consists of formal contexts representing relationships between entities and their properties. The dataset is constructed by extracting entities and their attributes from Wikidata, and then creating a binary formal context where the presence or absence of an attribute for an entity is encoded as a binary relation. This preprocessing results in a manageable and structured context suitable for formal concept analysis and implication derivation. The wiki44k dataset serves as a challenging benchmark due to its large size and high dimensionality, making it ideal for evaluating the scalability and effectiveness of implication mining algorithms.
+
+
+

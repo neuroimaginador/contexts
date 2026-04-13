@@ -1,0 +1,7 @@
+title: CORA
+source: "Lise Getoor. 2005. Link-based classification. In Advanced methods for knowledge discovery from complex data. Springer,189–207."
+size:
+  objects: 2708
+  attributes: 1433
+language: English
+description: Scientific publications and their keywords.
